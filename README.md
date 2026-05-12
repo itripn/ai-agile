@@ -1,4 +1,4 @@
-# ai-agile
+# AI-Agile
 
 A working body of design documents that follow from a claim:
 the product and software development lifecycles refined over the
