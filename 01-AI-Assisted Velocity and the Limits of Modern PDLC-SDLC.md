@@ -345,3 +345,8 @@ Each artifact deserves its own treatment, and the four together are
 intended to be a coherent successor to the team-level and
 portfolio-level mechanics of current PDLC/SDLC, not a set of point edits
 to it.
+
+
+---
+
+*Part of [ai-agile](https://github.com/itripn/ai-agile) by Ron Forrester. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

@@ -539,3 +539,8 @@ is on the critical path for adoption.
 
 These are the largest known unresolved questions. Smaller questions are
 noted inline above.
+
+
+---
+
+*Part of [ai-agile](https://github.com/itripn/ai-agile) by Ron Forrester. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

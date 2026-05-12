@@ -40,3 +40,14 @@ Open or join a thread in
 [**Discussions**](https://github.com/itripn/ai-agile/discussions).
 PRs are welcome on any document — corrections, counter-examples,
 missing cases, or proposed rewrites of whole sections.
+
+## License
+
+This work is licensed under
+[**Creative Commons Attribution 4.0 International (CC BY 4.0)**](https://creativecommons.org/licenses/by/4.0/).
+Use it, adapt it, build on it, including commercially — the only requirement
+is attribution. Cite as:
+
+> *Ron Forrester, ai-agile (https://github.com/itripn/ai-agile), CC BY 4.0.*
+
+Full legal text in [`LICENSE`](./LICENSE).
