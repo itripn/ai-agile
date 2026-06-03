@@ -1,15 +1,15 @@
 # Executive summary
 
 This paper argues, then stress-tests, the claim that the product and
-software development lifecycles refined over the past decade — Agile in
-its various flavors, SAFe at scale, sprint-based delivery, story-point
-estimation, the linear discovery-to-release pipeline — were calibrated
-for a world that AI-assisted work has begun to dismantle. Two structural
-changes underwrite that claim. First, the marginal cost of producing a
-working production-grade first cut of almost any artifact — code, mock,
-schema, test, document, prototype — has collapsed toward zero, and the
-trajectory is steep enough that “production-grade” should be assumed to
-be the near-term norm rather than an aspiration. Second, the set of
+software development lifecycles refined over the past two decades — 
+Agile in its various flavors, SAFe at scale, sprint-based delivery, 
+story-pointestimation, the linear discovery-to-release pipeline — were 
+calibratedfor a world that AI-assisted work has begun to dismantle. Two 
+structural changes underwrite that claim. First, the marginal cost of 
+producing a working production-grade first cut of almost any artifact — 
+code, mock, schema, test, document, prototype — has collapsed toward zero, 
+and the trajectory is steep enough that “production-grade” should be assumed
+to be the near-term norm rather than an aspiration. Second, the set of
 people who can produce that first cut has expanded well beyond
 developers to include product managers, designers, analysts, and domain
 experts. Together these shift several of the constraints that current
